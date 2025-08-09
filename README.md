@@ -33,3 +33,5 @@ Customizable: The number of sentences in the summary can be easily adjusted in t
 Conclusion
 
 This text summarization tool demonstrates the practical application of basic NLP techniques for real-world tasks. It showcases how simple algorithms, such as word frequency analysis and sentence scoring, can be combined to create useful tools for information extraction and content reduction. The project serves as a solid foundation for further exploration into more advanced NLP methods, such as abstractive summarization or machine learning-based approaches.
+
+Output: <img width="917" height="328" alt="Image" src="https://github.com/user-attachments/assets/63f8b953-b9dc-41a8-a677-443424be2df7" />
